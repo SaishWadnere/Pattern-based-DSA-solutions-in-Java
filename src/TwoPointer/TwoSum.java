@@ -1,3 +1,4 @@
+package TwoPointer;
 /*
 Pattern: HashMap
 Problem: Two Sum (LeetCode 1)
